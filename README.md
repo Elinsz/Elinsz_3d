@@ -12,12 +12,3 @@ Desenvolvimento
 Extensão Ruby 
 Lançamento de compilação
 Windows: Use o recurso de compilação de lote do Visual Studio.
-
-OSX:
-
-cd cext/tt_lib2
-./build.sh
-Instalar binários
-Windows:
-
-install_cext.bat
